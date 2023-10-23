@@ -27,5 +27,5 @@
 
 
 ## Deploy  
-https://just-too-it.github.io/
+https://just-too-it.github.io/music-player/
 
