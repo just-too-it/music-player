@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/music-player/static/css/main.2ee99922.css",
+    "main.js": "/music-player/static/js/main.289d1e24.js",
+    "static/media/bensound-league.mp3": "/music-player/static/media/bensound-league.24d440ea46f54b76c0f8.mp3",
+    "static/media/bensound-nightandday.mp3": "/music-player/static/media/bensound-nightandday.33f09faab5c205192886.mp3",
+    "static/media/bensound-truehero.mp3": "/music-player/static/media/bensound-truehero.6d520abf2df9c8ae6cd5.mp3",
+    "static/media/bg.png": "/music-player/static/media/bg.eae98bdd8dd984af47b3.png",
+    "static/media/soyb.webp": "/music-player/static/media/soyb.980645df93da5b7e5316.webp",
+    "static/media/risian.webp": "/music-player/static/media/risian.7c0b8450848857cecddc.webp",
+    "static/media/dpmusic.webp": "/music-player/static/media/dpmusic.c64b7766e96c6b4ccb6c.webp",
+    "static/media/volume-loud.svg": "/music-player/static/media/volume-loud.505a48aeae6cc474affa7f6112eab6c0.svg",
+    "static/media/volume-cross.svg": "/music-player/static/media/volume-cross.daa365981204d0252503db2e3c1b26b4.svg",
+    "static/media/pause-stream.svg": "/music-player/static/media/pause-stream.a72e95aa7994c74d3817d41fd65a6ca8.svg",
+    "static/media/play-stream.svg": "/music-player/static/media/play-stream.4f51ad0612864e3a45e128e3bb5e80fb.svg",
+    "index.html": "/music-player/index.html",
+    "static/media/rewind-back.svg": "/music-player/static/media/rewind-back.2a973e4136dea11c1939439142cd6f17.svg",
+    "static/media/logo.svg": "/music-player/static/media/logo.c0ea71d297c2e5b09b0b.svg",
+    "main.2ee99922.css.map": "/music-player/static/css/main.2ee99922.css.map",
+    "main.289d1e24.js.map": "/music-player/static/js/main.289d1e24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ee99922.css",
+    "static/js/main.289d1e24.js"
+  ]
+}
