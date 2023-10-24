@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/music-player/static/css/main.2ee99922.css",
-    "main.js": "/music-player/static/js/main.289d1e24.js",
+    "main.css": "/music-player/static/css/main.12df82ac.css",
+    "main.js": "/music-player/static/js/main.504371de.js",
     "static/media/bensound-league.mp3": "/music-player/static/media/bensound-league.24d440ea46f54b76c0f8.mp3",
     "static/media/bensound-nightandday.mp3": "/music-player/static/media/bensound-nightandday.33f09faab5c205192886.mp3",
     "static/media/bensound-truehero.mp3": "/music-player/static/media/bensound-truehero.6d520abf2df9c8ae6cd5.mp3",
@@ -16,11 +16,11 @@
     "index.html": "/music-player/index.html",
     "static/media/rewind-back.svg": "/music-player/static/media/rewind-back.2a973e4136dea11c1939439142cd6f17.svg",
     "static/media/logo.svg": "/music-player/static/media/logo.c0ea71d297c2e5b09b0b.svg",
-    "main.2ee99922.css.map": "/music-player/static/css/main.2ee99922.css.map",
-    "main.289d1e24.js.map": "/music-player/static/js/main.289d1e24.js.map"
+    "main.12df82ac.css.map": "/music-player/static/css/main.12df82ac.css.map",
+    "main.504371de.js.map": "/music-player/static/js/main.504371de.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ee99922.css",
-    "static/js/main.289d1e24.js"
+    "static/css/main.12df82ac.css",
+    "static/js/main.504371de.js"
   ]
 }
