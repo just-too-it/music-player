@@ -77,7 +77,10 @@ export const Player: FC<PlayerProps> = ({ playList }) => {
   };
 
   const changeCurrentTime = useCallback(() => {
-    progressBar.current.style.setProperty('before-width', `${(parseInt(progressBar.current.value) / duration) * 100}%`);
+    progressBar.current.style.setProperty(
+      '--before-width',
+      `${(parseInt(progressBar.current.value) / duration) * 100}%`
+    );
   }, [duration]);
 
   const handleCurrentTimeRange = () => {
@@ -107,6 +110,7 @@ export const Player: FC<PlayerProps> = ({ playList }) => {
     }
 
     volumeBar.current.value = volume.toString();
+    volumeBar.current.style.setProperty('--before-width', `${volume}%`);
   }, [volume]);
 
   useEffect(() => {
